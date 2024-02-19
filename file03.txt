@@ -1,0 +1,15 @@
+Objetivos:
+
+Importar recursos existentes no ambiente Microsoft Azure para serem gerenciados pelo Terraform.
+
+[Hands-On] Terraform Import
+
+1 - Criar um resource group via portal
+2 - Criar um IP público via portal
+3 - Coletar informações para Importar os recursos para o Terraform.
+4 - Configurar o Importa Block para Importar os recursos criados pelo portal.
+5 - Configurar o Resource Block do recurso que iremos importar.
+6 - Utilizar os comandos básicos para planejar e importar os recursos do Microsoft Azure para o State do Terraform.
+7 - Utilizar o comando -generate-config-out para geração autoamtica de blocos de recursos.
+8 - Utilizar os comandos básicos para planejar e Importar os recusrsos do Microsoft Azure para o State do Terraform.
+9 - Aplicar modificações via Terraformnos recusrsos importados.
